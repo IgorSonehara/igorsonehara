@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b6fc08ce-fd70-4fca-a3fa-097f2a11bb5f/73d6acbb-9150-405f-9572-3b27aafdc79b.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b6fc08ce-fd70-4fca-a3fa-097f2a11bb5f/8787471a-a81a-4e4e-9149-af8495b3cc02.png" /></a>
+<p float="left">
+  <img src="https://wakatime.com/share/@b6fc08ce-fd70-4fca-a3fa-097f2a11bb5f/73d6acbb-9150-405f-9572-3b27aafdc79b.png" width="480"/>
+  <img src="https://wakatime.com/share/@b6fc08ce-fd70-4fca-a3fa-097f2a11bb5f/8787471a-a81a-4e4e-9149-af8495b3cc02.png" width="480"/>
+</p>
+
 <!--
 **IgorSonehara/igorsonehara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
