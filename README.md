@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 <p float="left">
-<!--  <img src="https://wakatime.com/share/@b6fc08ce-fd70-4fca-a3fa-097f2a11bb5f/73d6acbb-9150-405f-9572-3b27aafdc79b.png" width="480"/>-->
+  <img src="https://wakatime.com/share/@b6fc08ce-fd70-4fca-a3fa-097f2a11bb5f/c5f08b90-9188-4122-8578-7be861784af7.svg" width="480"/>
+  <!--
   <img src="https://wakatime.com/share/@b6fc08ce-fd70-4fca-a3fa-097f2a11bb5f/8787471a-a81a-4e4e-9149-af8495b3cc02.png" width="480"/>
+  -->
 </p>
 
 <!--
